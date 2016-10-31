@@ -1,2 +1,3 @@
 # learn-uwp
-Không có gì mà đọc đâu, bài thực hành thôi :3
+# jetnguu
+# 10/31/2016
